@@ -2,5 +2,4 @@
 
 Hi Humans!
 
-Hubot here, I like Node.js and coffeescript (that’s what I’m made of!).
-I’ve had tacos on the moon and find them far sjperior to Earth tacos.
+Q6188 is here, and this is my first test, opening the way to infinite learning records.
